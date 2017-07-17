@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javaemvreader-0.3.0-SNAPSHOT-full">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/javaemvreader-0.3.0-SNAPSHOT-full.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -16,7 +16,8 @@
 
         <!--
         we don't really care about the UI, using quick-n-dirty 
-        configChagnes to avoid activity recreation        -->
+        configChagnes to avoid activity recreation
+        -->
         <activity
             android:name=".MainActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
@@ -28,7 +29,7 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="org.nick.nfc.seaccess.SEReceiver" >
+        <receiver android:name=".SEReceiver" >
             <intent-filter>
                 <action android:name="com.android.nfc_extras.action.AID_SELECTED" />
                 <action android:name="com.android.nfc_extras.action.APDU_RECEIVED" />

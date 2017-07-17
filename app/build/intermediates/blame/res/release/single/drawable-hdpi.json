@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/android-se-access/app/build/intermediates/res/merged/release/drawable-hdpi/ic_action_search.png",
+        "source": "/home/gigi/AndroidStudioProjects/android-se-access/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/android-se-access/app/build/intermediates/res/merged/release/drawable-hdpi/ic_launcher.png",
+        "source": "/home/gigi/AndroidStudioProjects/android-se-access/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

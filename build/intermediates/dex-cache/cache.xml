@@ -3,39 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="C:\git\android-se-access\app\libs\javaemvreader-0.3.0-SNAPSHOT-full.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="975e0e8d7a3fd6e415c90889e56c0171e9dbc386">
-        <dex dex="C:\git\android-se-access\app\build\intermediates\pre-dexed\debug\javaemvreader-0.3.0-SNAPSHOT-full_8c118903b5a3b34499618cfe15387f57e0ce24dc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\git\android-se-access\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="cfa4de25414ce8cc316704cca11a96a354f46519">
-        <dex dex="C:\git\android-se-access\app\build\intermediates\pre-dexed\debug\instant-run_d11314039a163bb64a282132698fa809677d23a7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\git\android-se-access\app\libs\javaemvreader-0.3.0-SNAPSHOT-full.jar"
+        jar="/home/gigi/AndroidStudioProjects/android-se-access/app/libs/javaemvreader-0.3.0-SNAPSHOT-full.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="975e0e8d7a3fd6e415c90889e56c0171e9dbc386">
-        <dex dex="C:\git\android-se-access\app\build\intermediates\pre-dexed\debug\javaemvreader-0.3.0-SNAPSHOT-full_8c118903b5a3b34499618cfe15387f57e0ce24dc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\git\android-se-access\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="51fa9e32067268e182dd04be5352a7944a14486c">
-        <dex dex="C:\git\android-se-access\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1dec93187d6bca0d3a958bc5aa6a7e8957689835.jar" />
+        revision="25.0.0"
+        sha1="a4ba2d69feb9d1c5ce330fd49f1d5de48830ec08">
+        <dex dex="/home/gigi/AndroidStudioProjects/android-se-access/app/build/intermediates/pre-dexed/debug/javaemvreader-0.3.0-SNAPSHOT-full_a83e44b317635fe02f197e636871264198f5ce67.jar" />
     </item>
 
 </items>

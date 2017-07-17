@@ -114,7 +114,7 @@ public class SecurityDomainFCI {
                                         for (int i = 0; i < version.length; i++) {
                                             buff.append(0xff & version[i]);
                                             if (i != version.length - 1) {
-                                                buff.append(".");
+                                                buff.append("");
                                             }
                                         }
                                         result.gpVersion = buff.toString();
